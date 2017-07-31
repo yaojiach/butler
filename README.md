@@ -76,5 +76,6 @@ sudo ldconfig
 ## Run
 ```sh
 python cam.py
+python slack.py
 sudo python app.py
 ```
