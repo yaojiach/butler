@@ -1,0 +1,4 @@
+olefile==0.44
+picamera==1.13
+Pillow==4.2.1
+pytesseract==0.1.7
